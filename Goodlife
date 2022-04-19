@@ -1,0 +1,23 @@
+Day 2 Logic Puzzle 2
+The Good Life
+Each of five neighborhood dogs (Saber, Ginger, Nutmeg, Pepper, and Bear) is enjoying one
+of the following activities: getting its ears scratched, playing catch, taking a nap, burying a 
+chew toy, and going for a walk.
+Pepper is either playing catch or burying a chew toy.
+Neither Ginger nor Saber nor Bear is on a walk.
+One of the dogs named after a spice is getting its ears scratched.
+A dog not named for a spice is playing catch.
+Bear is getting some exercise.Can you figure out what each pooch is doing?
+Taking NapGetting 
+Ears 
+scratched
+Playing 
+catch
+Burying 
+Chew toy
+Taking a 
+walk
+Saber10000
+Ginger01000
+Pepper00010
+Nutmeg0
