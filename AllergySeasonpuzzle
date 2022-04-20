@@ -1,0 +1,7 @@
+General Rules (GR): Five friends all (Allegra, Ben, Clara, Flora, Zach) all allergic to something different: pollen, shellfish, bee stings, cats, or nuts.
+
+#A: Allegra has a food allergy B: Ben can play with his kitten for hours without issue (or medicine)C: Clara’s allergy is not related to animals: D:Flora has seasonal allergies
+Solution:
+Flora has seasonal allergies (D) applying only to pollen. Flora is allergic to pollen. Clara’s allergies involve only pollen or nuts (C), and we established Flora’s pollen allergy, so Clara is allergic to nuts by elimination. Allegra’s food allergy (A) applies to shellfish or nuts and, by elimination thus far, must be shellfish.This leaves bee stings and cats for either Ben or Zach.Ben is not allergic to his cat (E), so Ben is allergic to bee stings and Zach is allergic to cats by elimination.
+Answer (Name, Allergy): (Flora, pollen) (Clara, nuts) (Allegra, shellfish) (Ben, bee stings) (Zach, cats)
+
