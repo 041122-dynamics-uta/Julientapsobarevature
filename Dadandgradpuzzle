@@ -1,0 +1,7 @@
+Use C1 to determine Stephanie is one of the kids.
+Use C2 to determine that Elias and James are the two other kids.
+The three graduates are therefore Stephanie, Elias, and James; the three parents must be Michael, Ken, and Alberto.
+If Stephanie is not Michael’s child (C1) and Elias is not Michael’s child (C3), then James is Michael’s child.
+Either James or Elias is Alberto’s child in C2; since we established James is Michael’s child, Elias must be Alberto’s child.
+This leaves Stephanie to be Ken’s child by elimination.Answer (father, child): (Michael, James) (Alberto, Elias) (Ken, Stephanie)
+
