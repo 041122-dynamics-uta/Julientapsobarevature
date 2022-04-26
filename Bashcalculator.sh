@@ -52,7 +52,7 @@ elif [ $choice == 4 ]; then
     echo The result of  $num1 and $num2 is $((num1 / num2))
 
 elif [ $choice == 5 ]; then
-    echo exit
+    exit
 else
     echo Invalid entry... please choose the numbers listed above
     
