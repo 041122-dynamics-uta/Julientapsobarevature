@@ -1,0 +1,11 @@
+public static int hurdleRace(int k, List<int> height)
+    {
+        static void Main(String[] args) {
+        string[] tokens_n = Console.ReadLine().Split(' ');
+        int n = Convert.ToInt32(tokens_n[0]);
+        int k = Convert.ToInt32(tokens_n[1]);
+        string[] height_temp = Console.ReadLine().Split(' ');
+        int[] height = Array.ConvertAll(height_temp,Int32.Parse);
+        var max = height.Max();
+        var diff = Math.Max(max - k, 0);
+        Console.WriteLine(diff);
